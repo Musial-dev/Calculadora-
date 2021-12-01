@@ -1,0 +1,265 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-right"
+			],
+			[
+				"te",
+				"text-decoration-color"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"pin",
+				"deeppink"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"backgroud",
+				"background-size"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Luana-PC/Documents/JavaScript/index.html",
+		"/C/Users/Luana-PC/Documents/JavaScript/meu_script.js",
+		"/C/Users/Luana-PC/Documents/Spotify/Css/estilo.css",
+		"/C/Users/Luana-PC/Documents/BootStrap-Padrão/index.html",
+		"/C/Users/Luana-PC/Documents/Media queries/estilo-impressao.css",
+		"/C/Users/Luana-PC/Documents/Media queries/estilo.css",
+		"/C/Users/Luana-PC/Documents/Media queries/index.html",
+		"/C/Users/Luana-PC/Documents/bootstrap4/index.html",
+		"/C/Users/Luana-PC/Documents/Museu Nacional/CSS/style.css",
+		"/C/Users/Luana-PC/Documents/Museu Nacional/index.html",
+		"/C/Users/Luana-PC/Desktop/Rifa/CSS/estilo.css",
+		"/C/Users/Luana-PC/Desktop/Rifa/index.html",
+		"/C/Users/Luana-PC/Documents/Museu Nacional/CSS/normalize.css",
+		"/C/Users/Luana-PC/Documents/Museu Nacional/css/style.css",
+		"/C/Users/Luana-PC/Documents/Museu Nacional/css/normalize.css",
+		"/C/Users/Luana-PC/Documents/Chale-Hotel/CSS/Style.css",
+		"/C/Users/Luana-PC/Documents/Chale-Hotel/index.html",
+		"/C/Users/Luana-PC/Documents/Projeto Site de Noticias/CSS/style.css",
+		"/C/Users/Luana-PC/Documents/Projeto Site de Noticias/nova-legislacao.html",
+		"/C/Users/Luana-PC/Documents/Projeto Site de Noticias/fotos.html",
+		"/C/Users/Luana-PC/Documents/Projeto Site de Noticias/brasil.html",
+		"/C/Users/Luana-PC/Documents/Projeto Site de Noticias/index.html",
+		"/C/Users/Luana-PC/Documents/TecBlog/index.html",
+		"/C/Users/Luana-PC/Documents/TecBlog/CSS/style.css",
+		"/C/Users/Luana-PC/Desktop/TecBlog/style.css",
+		"/C/Users/Luana-PC/Desktop/Site de noticias/style.css",
+		"/C/Users/Luana-PC/Desktop/Site de noticias/index.html",
+		"/C/Users/Luana-PC/Desktop/Projeto Instagram/style.css",
+		"/C/Users/Luana-PC/Desktop/Projeto Instagram/index.html",
+		"/C/Users/Luana-PC/Desktop/Projeto CSS3/Style.CSS",
+		"/C/Users/Luana-PC/Desktop/Projeto CSS3/Contato.html",
+		"/C/Users/Luana-PC/Desktop/Projeto CSS3/Campanhas-publicitarias.html",
+		"/C/Users/Luana-PC/Desktop/Projeto CSS3/Biografia.html",
+		"/C/Users/Luana-PC/Desktop/Projeto CSS3/index.html",
+		"/C/Users/Luana-PC/Desktop/Projeto CSS3/classes_ids.html",
+		"/C/Users/Luana-PC/Desktop/Primeiro Desafio HTML/contato.html",
+		"/C/Users/Luana-PC/Desktop/Primeiro Desafio HTML/quem-somos.html",
+		"/C/Users/Luana-PC/Desktop/Primeiro Desafio HTML/index.html",
+		"/C/Users/Luana-PC/Desktop/Primeiro Projeto/projeto.html"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
